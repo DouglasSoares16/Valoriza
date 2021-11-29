@@ -4,7 +4,7 @@
 
 ## 💻 Projeto
 
-O projeto <b>NlwValoriza</b> desenvolvido durante a maratona NLW06, onde podemos elogiar o nosso colega por algo que ele fez como por exemplo uma ajuda, o <b>Elogio</b> é acompanhado de uma <b>Tag</b>.
+O projeto <b>NlwValoriza</b> desenvolvido durante a maratona <b>NLW Together</b>, onde podemos elogiar o nosso colega por algo que ele fez como por exemplo uma ajuda, o <b>Elogio</b> é acompanhado de uma <b>Tag</b>.
 
 
 ## 🚀 Tecnologias
